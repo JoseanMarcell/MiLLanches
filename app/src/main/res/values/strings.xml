@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MiLLanches</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_pedidorealizado">Pedidorealizado</string>
+    <string name="txtCliente">Cliente</string>
+    <string name="txtpedidorealizado">Pedido Relizado</string>
+</resources>
